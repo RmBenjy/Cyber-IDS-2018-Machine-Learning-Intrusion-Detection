@@ -1,0 +1,25 @@
+{
+  "created_at": "2025-09-06T20:46:55.673992Z",
+  "notes": "IDS2018 personal project; numeric-only features; memory-safe rebalancing; post-processing with partial prior correction + thresholds.",
+  "gamma": 0.75,
+  "t_benign": 0.8,
+  "t_infiltration": 0.74,
+  "labels": [
+    "Benign",
+    "Bot",
+    "Brute Force -Web",
+    "Brute Force -XSS",
+    "DDOS attack-HOIC",
+    "DDOS attack-LOIC-UDP",
+    "DDoS attacks-LOIC-HTTP",
+    "DoS attacks-GoldenEye",
+    "DoS attacks-Hulk",
+    "DoS attacks-SlowHTTPTest",
+    "DoS attacks-Slowloris",
+    "FTP-BruteForce",
+    "Infilteration",
+    "SQL Injection",
+    "SSH-Bruteforce"
+  ],
+  "feature_count": 78
+}
